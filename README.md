@@ -1,5 +1,5 @@
-# Target-Agnostic Brute Force Attack on Deep Models
-This is the open source repository of target-agnostic attack on deep neural networks. The paper is accessible here:
+# A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning
+This is the open source repository of target-agnostic attack on deep neural networks. The paper is accessible here [https://arxiv.org/abs/1904.04334]:
 
 # Quick Start
 You need to put all the re-training data into the data folder. For face recognition case study, re-training data is available [here](http://vis-www.cs.umass.edu/lfw/#deepfunnel-anchor). Then, modify the loadData.py according to your re-training data folder structure.
